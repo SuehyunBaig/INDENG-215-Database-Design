@@ -1,5 +1,6 @@
 ## Project Context
-This project was completed as part of a database design & analysis course. 
+This project was completed collaboratively through team discussion on the overall business design and each team member focusing on different platforms (Azure, Databricks, MongoDB) or 
+different stages of database implementation (OLTP, OLAP, ETL).
 The goal was to **design and implement a relational database for a fictional business.**
 The project involved synthetic data generation, cloud deployment, and analytical reporting.
 
