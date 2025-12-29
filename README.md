@@ -1,8 +1,7 @@
 ## Project Context
-This project was completed collaboratively through team discussion on the overall business design and each team member focusing on different platforms (Azure, Databricks, MongoDB) or 
+The goal of this project was to **design and implement a relational database for a fictional business.**
+It was completed **collaboratively** through team discussion on the overall business design and each team member focusing on different platforms (Azure, Databricks, MongoDB) or 
 different stages of database implementation (OLTP, OLAP, ETL).
-The goal was to **design and implement a relational database for a fictional business.**
-The project involved synthetic data generation, cloud deployment, and analytical reporting.
 
 **Specific tasks included:**
 - Identifying data that could inform operations of the business
